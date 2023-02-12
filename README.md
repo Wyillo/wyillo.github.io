@@ -1,4 +1,3 @@
-# wyillo.github.io
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 @import url('https://commandcrafterhd.github.io/DiscordDarkNeon/css/usertags.css');
