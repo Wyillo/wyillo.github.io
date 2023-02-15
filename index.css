@@ -7,7 +7,7 @@
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--text-color);
   --background: #000900;
-  --text-color: #4AEF98;
+  --text-color: #D4FFDF;
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
@@ -62,7 +62,7 @@
 
 /* --== Change font ==-- */
 html, body {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'gg sans', monospace;
 }
 
 /* --== Make sure the BetterDiscord version is readable ==-- */
